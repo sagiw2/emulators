@@ -2,12 +2,12 @@
 
 A small Chip-8 emulator written in C++ using SDL3 to play some games from octo game jam in itch.io
 
-## 🛠️ Build
+## Build
 
 - C++ with CMake
 - Requires [SDL3](https://wiki.libsdl.org/SDL3/FrontPage)
 
-## ▶️ To Run
+## Run
 
 ./chip8 \<scale> \<delay> \<path_to_rom_file>
 
