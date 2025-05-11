@@ -1,5 +1,5 @@
 .vscode/*
 build/*
-games/*
+chip8/games/*
 vendored/*
 chip8/tests/*
