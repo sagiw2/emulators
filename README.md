@@ -9,7 +9,7 @@ A small Chip-8 emulator written in C++ using SDL3 to play some games from octo g
 
 ## ▶️ To Run
 
-./chip8 <scale> <delay> <path/to/rom>
+./chip8 \<scale> \<delay> \<path_to_rom_file>
 
 ## Controles
 
