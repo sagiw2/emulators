@@ -1,0 +1,5 @@
+.vscode/*
+build/*
+games/*
+vendored/*
+chip8/tests/*
