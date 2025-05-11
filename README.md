@@ -13,10 +13,15 @@ A small Chip-8 emulator written in C++ using SDL3 to play some games from octo g
 
 ## Controles
 
-1 2 3 4
-Q W E R
-A S D F
-Z X C V
+<td>
+
+| 1 | 2 | 3 | 4 |
+|--|--|--|--|
+| Q | W | E | R |
+| A | S | D | F |
+| Z | X | C | V |
+
+</td>
 
 ## Test ROMs
 
