@@ -28,4 +28,4 @@ A small Chip-8 emulator written in C++ using SDL3 to play some games from octo g
 I've added some test ROMs I used while working on it
 
 ## Ref
-  [Coggod's Chip8](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
+  [Cowgod's Chip8](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
